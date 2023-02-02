@@ -1,2 +1,3 @@
+set mypath=%cd%
 timeout 3
-python zoom.py
+start %mypath%\zoom.py
