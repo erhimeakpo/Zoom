@@ -12,6 +12,7 @@ Sit back, relax and don't oversleep!
 4. Select any interval. IE Weekly, every Monday, Tuesday, and Friday.
 5. Click "Ok", then switch to the "Actions" tab and select "New"
 6. By default it will be on Start a program, all you need to do is add the path of the "class.bat" file.
+7. In the "Conditions" tab, enable "Wake the computer to run this task"
 In order avoid some errors, I use a bat file to start the script.
 
 
